@@ -1,0 +1,10 @@
+@charset "UTF-8";
+.top h1 {
+    font-family: 'Modak', cursive;
+font-family: 'Montserrat', sans-serif;
+}
+
+.top{
+    background-image: url(../img/top.png);
+    background-size: cover;
+}
